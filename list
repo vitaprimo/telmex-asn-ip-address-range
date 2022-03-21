@@ -1,0 +1,115 @@
+#### IPv4
+#Netblock            # Company                                            # Num of IPs
+104.90.204.0/23      # Akamai Technologies, Inc.                                   512
+142.131.248.0/22     # Fairmont Raffles Hotels International                     1,024
+142.131.252.0/24     # Fairmont Raffles Hotels International                       256
+148.207.1.0/24       # CONACYT                                                     256
+148.207.136.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.144.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.145.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.146.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.147.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.148.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.185.0/24     # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.96.0/24      # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.97.0/24      # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.207.98.0/24      # Consejo Nacional de Ciencia y Tenologia (CONACYT)           256
+148.208.144.0/24     # Secretaria de Educacion e Investigacion Tecnologic          256
+148.208.145.0/24     # Secretaria de Educacion e Investigacion Tecnologic          256
+148.212.0.0/16       # Universidad Autonoma de Coahuila                         65,536
+148.217.0.0/16       # UNIVERSIDAD AUTONOMA DE ZACATECAS                        65,536
+148.221.0.0/18       # Uninet S.A. de C.V.                                      16,384
+148.221.128.0/19     # Uninet S.A. de C.V.                                       8,192
+148.221.192.0/18     # Uninet S.A. de C.V.                                      16,384
+148.223.0.0/20       # Uninet S.A. de C.V.                                       4,096
+148.223.112.0/20     # Uninet S.A. de C.V.                                       4,096
+148.223.128.0/18     # Uninet S.A. de C.V.                                      16,384
+148.223.16.0/20      # Uninet S.A. de C.V.                                       4,096
+148.223.192.0/19     # Uninet S.A. de C.V.                                       8,192
+148.223.224.0/19     # Uninet S.A. de C.V.                                       8,192
+148.223.32.0/20      # Uninet S.A. de C.V.                                       4,096
+148.223.48.0/20      # Uninet S.A. de C.V.                                       4,096
+148.223.64.0/20      # Uninet S.A. de C.V.                                       4,096
+148.223.80.0/20      # Uninet S.A. de C.V.                                       4,096
+148.223.96.0/20      # Uninet S.A. de C.V.                                       4,096
+148.226.161.0/24     # Universidad Veracruzana                                     256
+148.226.195.0/24     # Universidad Veracruzana                                     256
+148.227.0.0/17       # Universidad Autonoma de Sinaloa                          32,768
+148.227.128.0/20     # Universidad Autonoma de Sinaloa                           4,096
+148.227.144.0/20     # Universidad Autonoma de Sinaloa                           4,096
+148.227.160.0/20     # Universidad Autonoma de Sinaloa                           4,096
+148.227.176.0/20     # Universidad Autonoma de Sinaloa                           4,096
+148.227.192.0/19     # Universidad Autonoma de Sinaloa                           8,192
+148.227.224.0/19     # Universidad Autonoma de Sinaloa                           8,192
+148.233.0.0/20       # WISP SA DE CV                                             4,096
+148.233.10.0/24      # Uninet S.A. de C.V.                                         256
+148.233.128.0/22     # Uninet S.A. de C.V.                                       1,024
+148.233.132.0/22     # Uninet S.A. de C.V.                                       1,024
+148.233.136.0/22     # Uninet S.A. de C.V.                                       1,024
+148.233.140.0/22     # Uninet S.A. de C.V.                                       1,024
+148.233.144.0/20     # Uninet S.A. de C.V.                                       4,096
+148.233.160.0/19     # Uninet S.A. de C.V.                                       8,192
+148.233.16.0/21      # Uninet S.A. de C.V.                                       2,048
+148.233.192.0/18     # Uninet S.A. de C.V.                                      16,384
+148.233.197.0/24     # Uninet S.A. de C.V.                                         256
+148.233.198.0/24     # Uninet S.A. de C.V.                                         256
+148.233.24.0/21      # Uninet S.A. de C.V.                                       2,048
+148.233.32.0/19      # Uninet S.A. de C.V.                                       8,192
+148.233.64.0/19      # Uninet S.A. de C.V.                                       8,192
+148.233.76.0/24      # Uninet S.A. de C.V.                                         256
+148.233.96.0/19      # Uninet S.A. de C.V.                                       8,192
+148.235.0.0/19       # Uninet S.A. de C.V.                                       8,192
+148.235.128.0/19     # Uninet S.A. de C.V.                                       8,192
+148.235.160.0/19     # Uninet S.A. de C.V.                                       8,192
+148.235.192.0/19     # Uninet S.A. de C.V.                                       8,192
+148.235.198.0/24     # Uninet S.A. de C.V.                                         256
+148.235.199.0/24     # Uninet S.A. de C.V.                                         256
+148.235.200.0/24     # Uninet S.A. de C.V.                                         256
+148.235.201.0/24     # Uninet S.A. de C.V.                                         256
+148.235.32.0/19      # Uninet S.A. de C.V.                                       8,192
+148.235.64.0/19      # Uninet S.A. de C.V.                                       8,192
+148.235.96.0/19      # Uninet S.A. de C.V.                                       8,192
+148.249.0.0/24       # Grupo IRSA                                                  256
+158.122.0.0/19       # CETYS - Centro de Ensenanza Tecnica Y Superior            8,192
+158.122.128.0/22     # CETYS - Centro de Ensenanza Tecnica Y Superior            1,024
+158.122.132.0/22     # CETYS - Centro de Ensenanza Tecnica Y Superior            1,024
+158.122.64.0/20      # CETYS - Centro de Ensenanza Tecnica Y Superior            4,096
+158.122.80.0/22      # CETYS - Centro de Ensenanza Tecnica Y Superior            1,024
+158.122.84.0/22      # CETYS - Centro de Ensenanza Tecnica Y Superior            1,024
+158.122.92.0/22      # CETYS - Centro de Ensenanza Tecnica Y Superior            1,024
+158.122.96.0/19      # CETYS - Centro de Ensenanza Tecnica Y Superior            8,192
+159.16.0.0/22        # Comision Federal de Electricidad                          1,024
+168.255.252.0/24     # Secretaria de Educacion Publica                             256
+187.129.87.0/24      # Uninet S.A. de C.V.                                         256
+187.130.0.0/19       # Uninet S.A. de C.V.                                       8,192
+187.130.128.0/20     # Uninet S.A. de C.V.                                       4,096
+187.130.144.0/20     # Uninet S.A. de C.V.                                       4,096
+187.130.160.0/19     # Uninet S.A. de C.V.                                       8,192
+187.130.160.0/24     # Uninet S.A. de C.V.                                         256
+187.130.192.0/19     # Uninet S.A. de C.V.                                       8,192
+187.130.224.0/19     # Uninet S.A. de C.V.                                       8,192
+187.130.31.0/24      # Uninet S.A. de C.V.                                         256
+187.130.32.0/19      # Uninet S.A. de C.V.                                       8,192
+187.130.63.0/24      # Uninet S.A. de C.V.                                         256
+187.130.64.0/19      # Uninet S.A. de C.V.                                       8,192
+187.130.88.0/24      # Uninet S.A. de C.V.                                         256
+187.130.96.0/19      # Uninet S.A. de C.V.                                       8,192
+187.131.0.0/19       # Uninet S.A. de C.V.                                       8,192
+187.131.0.0/21       # Uninet S.A. de C.V.                                       2,048
+187.131.104.0/21     # Uninet S.A. de C.V.                                       2,048
+187.131.112.0/21     # Uninet S.A. de C.V.                                       2,048
+187.131.120.0/21     # Uninet S.A. de C.V.                                       2,048
+187.131.128.0/19     # Uninet S.A. de C.V.                                       8,192
+201.130.80.0/24      # Uninet S.A. de C.V.                                         256
+#### IPv6
+#Netblock            # Company
+2001:1208::/32       # Uninet S.A. de C.V.
+2600:141c:5000::/48  # Akamai Technologies, Inc.
+2600:141c:7::/48     # Akamai Technologies, Inc.
+2806:1000::/32       # Uninet S.A. de C.V.
+2806:1000:8000::/48  # Uninet S.A. de C.V.
+2806:1000:8002::/48  # Uninet S.A. de C.V.
+2806:1000:8003::/48  # Uninet S.A. de C.V.
+2806:1000:8004::/48  # Uninet S.A. de C.V.
+2806:1000:8005::/48  # Uninet S.A. de C.V.
+2806:1000:8101::/48  # Uninet S.A. de C.V.
